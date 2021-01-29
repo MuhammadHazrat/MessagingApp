@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Messaging App</string>
+    <string name="now_managing_your_ledger_is_just_a_few_taps_away">Now Managing your Ledger is just a few taps away</string>
+    <string name="urdu">Urdu</string>
+    <string name="english">English</string>
+    <string name="by_logging_in_you_agree_to_our_privacy_policy">By Logging in, you agree to our Privacy Policy</string>
+</resources>
